@@ -1,0 +1,14 @@
+C:\Users\452457624\Documents\0902\bin\Debug\net8.0\0902.exe
+C:\Users\452457624\Documents\0902\bin\Debug\net8.0\0902.deps.json
+C:\Users\452457624\Documents\0902\bin\Debug\net8.0\0902.runtimeconfig.json
+C:\Users\452457624\Documents\0902\bin\Debug\net8.0\0902.dll
+C:\Users\452457624\Documents\0902\bin\Debug\net8.0\0902.pdb
+C:\Users\452457624\Documents\0902\obj\Debug\net8.0\0902.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\452457624\Documents\0902\obj\Debug\net8.0\0902.AssemblyInfoInputs.cache
+C:\Users\452457624\Documents\0902\obj\Debug\net8.0\0902.AssemblyInfo.cs
+C:\Users\452457624\Documents\0902\obj\Debug\net8.0\0902.csproj.CoreCompileInputs.cache
+C:\Users\452457624\Documents\0902\obj\Debug\net8.0\0902.dll
+C:\Users\452457624\Documents\0902\obj\Debug\net8.0\refint\0902.dll
+C:\Users\452457624\Documents\0902\obj\Debug\net8.0\0902.pdb
+C:\Users\452457624\Documents\0902\obj\Debug\net8.0\0902.genruntimeconfig.cache
+C:\Users\452457624\Documents\0902\obj\Debug\net8.0\ref\0902.dll
