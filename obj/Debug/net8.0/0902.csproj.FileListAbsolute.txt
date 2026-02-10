@@ -12,3 +12,4 @@ C:\Users\452457624\Documents\0902\obj\Debug\net8.0\refint\0902.dll
 C:\Users\452457624\Documents\0902\obj\Debug\net8.0\0902.pdb
 C:\Users\452457624\Documents\0902\obj\Debug\net8.0\0902.genruntimeconfig.cache
 C:\Users\452457624\Documents\0902\obj\Debug\net8.0\ref\0902.dll
+C:\Users\452457624\Documents\0902\obj\Debug\net8.0\0902.sourcelink.json
